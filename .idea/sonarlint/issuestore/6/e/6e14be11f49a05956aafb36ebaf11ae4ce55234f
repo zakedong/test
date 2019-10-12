@@ -1,0 +1,7 @@
+
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8î§Õ´Û-
+^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8÷¡Ö´Û-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ñ±Ëàøÿÿÿÿ8ß¾Æ³Û-
+Osquid:S1602!",Remove useless curly braces around statement(¹“Ž°ýÿÿÿÿ8ß¾Æ³Û-
+asquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8÷¡Ö´Û-
